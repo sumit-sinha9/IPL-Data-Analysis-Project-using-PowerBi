@@ -20,4 +20,3 @@ PowerBi Project involves integrating live cricket score APIs into Power BI which
 
 ----------------------------------------------------------------
 
-Guided by: The-Developer-BI
